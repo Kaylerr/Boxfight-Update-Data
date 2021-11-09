@@ -1,0 +1,22 @@
+Changes
+• changed from the world space menu (moving camera menu) to a static camera menu, and the very famous, Screen Space - Overlay, so that the window is resizeable for WebGL, Windows, Mac and Linux, at the following iterations of resolution: 1920x1080, 1366x768, 960x540 (WebGL size), and more.
+
+• slightly tweaked the bullet impact visuals so that they match.
+
+• adding infrastructure for a possible 1st person mode, so if there are bugs, please report to me.
+
+• cleaned up account system a little. UI was super messy bro. 
+
+
+Bugfixes
+
+• Fixed bugs with gun sounds being networked but possibly causing performance issues and crashing after much gun usage (many Unity components not being destroyed)
+
+• fixed bug with bullet impacts not being destroyed after animating
+
+• Fixed bug where the in-game settings menu was being animated offscreen so you couldn’t interact with it.
+
+• fixed bug with certain songs in the Music Jukebox muting sound for your Jukebox (which in result would cause you to reset your game) 
+
+have fun gamers
+
