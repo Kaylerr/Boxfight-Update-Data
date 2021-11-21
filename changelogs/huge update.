@@ -1,0 +1,17 @@
+What’s the deal? Why did I wait a week for this update? Well, here’s why.
+
+Changes
+
+Added new First Person Mode (aiming with gun scope coming soon)
+New map, “Inlands”. Gear up and drop into the desert lands.
+New map, “The Stadium”. Natural cover? No. Only you, and other boxes. And guns, too.
+CUSTOM MENU BACKGROUNDS! (info on how to make these work below)
+Spacialized gun sounds (made you only hear them if your within range of the bullet/player)
+Added a lil’ feature… click keys on your keyboard then look at your character… then you’ll find out 😉 
+
+Bugfixes
+
+Fixed Camera FOV only be able to be set to 15 maximum in main menu but 120 max in game
+Fixed bug where loading screen would cover whole screen on resolutions other than 1920x1080
+Fixed various glitches in ‘Canadia’.
+Fixed glitch where you could not exit the Fence Account menu unless you logged in or quit your game.
