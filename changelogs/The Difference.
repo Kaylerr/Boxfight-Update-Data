@@ -1,1 +1,17 @@
-Error fetching data. Come back later.
+welcome back. New update so let's get straight into it.
+
+Changes
+
+• The game is now called "Embersky" because of some confusion with a game on Steam called Boxfight. It's super cool though so we don't mind. It does mean we renamed some assets. We do miss the old name... but we are getting used to the new one so its fine.
+• New scrollbars so you don't have to scroll your mouse or drag the item to read further/find rooms.
+• Took out a couple songs to prevent bugs in the Music Jukebox.
+• reduced menu volume from maximum 100% to 50%, just because some gamers hated the old maximum. Hehe.
+• Shuffled stuff in the menu a little. This is because we're planning a big feature that needs button in the menu, and we couldn't fit it without shuffling stuff.
+• Took out the cubes in the menu. Sorry! We tried fitting it in so many ways but just couldn't.
+• Added Physic Syncing in "The Stadium" too. 
+
+Bugfixes
+
+• Fixed up the Custom Menu Backgrounds buttons going offscreen if you load too many.
+• Fixed visual issues with the settings menu (all settings ui would still show even after animating the experimental popup, ui is in the wrong place)
+• Fixed up a few bugs with the Text Chat function. :)
