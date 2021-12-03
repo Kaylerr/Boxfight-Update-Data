@@ -1,0 +1,17 @@
+Welcome back! Hope your getting used to the new name, Embersky. We did some important stuff this time with Visual Studio 2019 and Duct Tape. Let's get into it.
+
+Changes
+• Added new gun particles! We hope you find them interesting :D
+• Added infrastructure for various future updates.
+• Removed the update failsafe that you've most likely never encountered.
+• Removed the in-game settings menu for stability. 
+• Nerfed the Combat Pistol to 59 damage.
+• Buffed the Assault Rifle to 11 damage.
+• Nerfed the Heavy Shotgun to 34 damage.
+
+Bugfixes
+• Fixed bug with Canadia not loading on WebGL clients.
+• Fixed bug with the 'mouse look' and 'camera FOV' setting in the menu not saving.
+• Fixed bug with the Experimental pop-up being super large on resolutions that are not 1920x1080.
+• Fixed bug with your music jukebox song not being saved. 
+• Fixed bug with your music volume not being saved 20% of the time.
