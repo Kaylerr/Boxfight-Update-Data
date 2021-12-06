@@ -1,0 +1,13 @@
+Okay, welcome back to BOXFIGHT. and that's gonna be the name forever. We aren't changing it anymore. As such, with this change, Windows players need to get the new launcher from the itch page. Get it!
+
+Changes
+• Added shaders! These things make your game look like I intended the game to look. Serious but at the same time, visually pleasing and cartoony!
+• Added FPS counter, to check your FPS during games.
+• Removed the account system due to a reported security issue. We put our players safety before money and statistics, as such, we removed account functionality for now.
+• Added a function to choose a username! In the Graphics menu, choose your username with the input field.
+• Put the "Graphics" settings in a scrollview.
+
+Bugfixes
+• Fixed bug with the welcome sentence being empty.
+• Fixed various bugs on Canadia for good.
+• Fixed up the UI on the Spectator Camera. It no longer takes up half of your screen.
