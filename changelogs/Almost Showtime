@@ -1,1 +1,8 @@
+Small update before 0.1.0 breaks out with tons new features for you gamers.
 
+Changes
+• Removed Aim Trainer while we sort out something special for 0.1.0.
+
+Bugfixes
+• Fixed bug where if you haven't set your camera mode, multiplayer would create two players for the client. TWO!
+• Fixed bug where snow would overlap menu text.
